@@ -1,0 +1,16 @@
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\KillbotApp.Form1.resources
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.csproj.GenerateResource.cache
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.AssemblyInfoInputs.cache
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.AssemblyInfo.cs
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.csproj.CoreCompileInputs.cache
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\bin\Debug\net8.0-windows\killbotapp.exe
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\bin\Debug\net8.0-windows\killbotapp.deps.json
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\bin\Debug\net8.0-windows\killbotapp.runtimeconfig.json
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\bin\Debug\net8.0-windows\killbotapp.dll
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\bin\Debug\net8.0-windows\killbotapp.pdb
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.dll
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\refint\killbotapp.dll
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.pdb
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\killbotapp.genruntimeconfig.cache
+C:\Users\cjthe\source\repos\killbotapp\killbotapp\obj\Debug\net8.0-windows\ref\killbotapp.dll
